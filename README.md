@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-안드로이드 개발자를 선택한 이유 
-
-🔥안드로이드 신입 개발자가 되기 위해 취업하려 노력하고 있습니다🔥
+🔥안드로이드 신입 개발자가 되기 위해 여러 프로제트를 경험하며 실제 서비스를 경험하고 있습니다.🔥
 ## 🛠️Tech Stack
 
 ![js](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
