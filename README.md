@@ -11,7 +11,7 @@
 ![js](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 - 🌱 I’m currently learning :  아키텍처, Compose UI
-- 👯 I’m looking to collaborate on :  한밭마켓
+- 👯 I’m looking to collaborate on :  Hamo
 - 🤔 I’m looking for help with :  앱개발 경력 쌓기
 - 💬 Ask me about : 앱 개발을 제대로 하는 것은 무엇일까?
 - 📫 How to reach me: 메일로 연락주시면 됩니다. kbs95123@gmail.com
