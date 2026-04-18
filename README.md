@@ -46,18 +46,18 @@
 ### 🎯 프로젝트 개요
 - **컨셉**: 5~10분 단위의 짧은 학습 세션으로 **틈새 시간 학습 루틴**을 설계
 - **타겟**: 바쁜 일상 속에서도 꾸준히 성장하고 싶은 학습자
-- **담당**: 기획 · 디자인 · 개발 · 배포 전 과정 (1인 개발)
-- **배포**: Google Play Store / App Store
+- **담당**: Android개발자
+- **배포**: Google Play Store
 
 ### 🏗 아키텍처
 - **MVVM + Clean Architecture** (Presentation / Domain / Data 3-Layer)
 - **Single Activity + Jetpack Compose** 기반 선언형 UI
 - **Hilt** DI로 계층 간 의존성 분리
-- **Room + DataStore** 이중화로 구조화 데이터와 설정값을 용도별로 관리
+- **DataStore** 이중화로 구조화 데이터와 설정값을 용도별로 관리
 - **Coroutines + Flow** 기반 반응형 비동기 스트림
 
 ### ✨ 핵심 기능
-- 카카오 소셜 로그인 기반 간편 온보딩
+- 카카오 및 구글 소셜 로그인 기반 간편 온보딩
 - 개인화된 학습 플로우 및 진도 추적
 - FCM / OneSignal을 활용한 리마인더 푸시 알림
 - Firebase Analytics / Crashlytics로 사용자 행동·안정성 지표 수집
@@ -72,7 +72,8 @@
 | **DataStore** | SharedPreferences의 동기 I/O 및 타입 안정성 한계 극복 | Coroutines 기반 비동기 처리로 UI 스레드 블로킹 제거 |
 | **Kotlin Flow** | LiveData 대비 연산자 풍부도 및 순수성 확보 | UI 상태 스트림 표현력 향상 |
 
-> 🔍 **앞으로 검토 중인 기술**: Baseline Profiles · KSP 마이그레이션 · Compose Multiplatform
+> 🔍 **앞으로 검토 중인 기술**: 현재 적절한 신기술 동향을 보고 있고 지속적으로 검토 중입니다.
+위 내용에 대해서는 [Velog 개발 블로그 ](https://velog.io/@kbs95123/posts) 에 게시 중입니다.
 
 ---
 
