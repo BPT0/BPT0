@@ -30,12 +30,10 @@
 ### 틈틈잇
 > **"틈새 시간, 가볍게 쌓이는 학습 루틴"**  
 > AI 기반 맞춤형 퀴즈로 출퇴근 시간을 학습 시간으로 바꾸는 앱
-
-### 🎯 프로젝트 개요
-- **컨셉**: 5~10분 단위의 짧은 학습 세션으로 **틈새 시간 학습 루틴**을 설계
 - **타겟**: 바쁜 일상 속에서도 꾸준히 성장하고 싶은 학습자
 - **담당**: Android 앱 개발
 - **목표**: 틈새 시간에도 배울 수 있어야 한다는 불편함에서 앱을 만들었고, 사용자 지표로 다음 불편함을 찾아 개선합니다.
 - **배포**: [Google Play Store](https://play.google.com/store/apps/details?id=com.teumteumeat.teumteumeat)
+- **Repo**: [틈틈잇:Repository](https://github.com/TeumTeumEat)
 
 <img width="7840" alt="image" src="https://github.com/user-attachments/assets/89910dde-b2c4-48be-a94c-9a41ffa27274" />
