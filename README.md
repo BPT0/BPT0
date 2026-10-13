@@ -36,7 +36,7 @@
 - **타겟**: 바쁜 일상 속에서도 꾸준히 성장하고 싶은 학습자
 - **담당**: Android 1인 개발
 - **목표**: 틈새 시간에도 배울 수 있어야 한다는 불편함에서 앱을 만들었고, 사용자 지표로 다음 불편함을 찾아 개선합니다.
-- **배포**: Google Play Store
+- **배포**: [Google Play Store](https://play.google.com/store/apps/details?id=com.teumteumeat.teumteumeat)
 
 ### 🏗 아키텍처
 - **MVVM + Clean Architecture** (Presentation / Domain / Data 3-Layer)
