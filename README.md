@@ -29,7 +29,21 @@
 - **타겟**: 바쁜 일상 속에서도 꾸준히 성장하고 싶은 학습자
 - **담당**: Android 앱 개발
 - **목표**: 틈새 시간에도 배울 수 있어야 한다는 불편함에서 앱을 만들었고, 사용자 지표로 다음 불편함을 찾아 개선합니다.
+- **성과**: 1000회이상 다운로드 달성
 - **배포**: [Google Play Store](https://play.google.com/store/apps/details?id=com.teumteumeat.teumteumeat)
 - **Repo**: [틈틈잇:Repository](https://github.com/TeumTeumEat)
+- **서비스 소개**: [틈틈잇:랜딩페이지](https://teumteumeat.co.kr/)
 
 <img width="7840" alt="image" src="https://github.com/user-attachments/assets/89910dde-b2c4-48be-a94c-9a41ffa27274" />
+
+### Hamo
+> **"언어의 장벽 없이, 요양보호사 자격증 합격까지"**  
+> 외국인 요양보호사 자격증 학습을 지원하는 모바일 서비스. 사용자가 설정한 언어로 번역된 학습 콘텐츠를 제공합니다.
+- **타겟**: 요양보호사 자격증을 준비하는 외국인 학습자
+- **기간**: 2025.02 ~ 2025.10 (약 8개월)
+- **팀 구성**: 총 4명 (기획 1 / 디자인 1 / 백엔드 1 / 모바일 1)
+- **담당**: 모바일 앱 개발 (Android -> Flutter 크로스 플랫폼)
+- **주요 기능**: 사용자 설정 언어에 따른 번역 학습 콘텐츠 제공
+- **성과**: iOS(2025.10.19)·Android(2025.10.20) 스토어 배포, 앱 사용자 요양보호사 시험 합격률 60% 이상
+- **배포**: [Google Play](https://play.google.com/store/apps/details?id=com.hamo.hamo.hamo) · [App Store](https://apps.apple.com/us/app/hamo/id6753189188)
+- **서비스 소개**: [hamoedu.com](https://www.hamoedu.com/)
