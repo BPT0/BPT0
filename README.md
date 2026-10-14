@@ -12,10 +12,6 @@
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logo=square&logoColor=white)
-![FCM](https://img.shields.io/badge/FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MVVM](https://img.shields.io/badge/MVVM-4285F4?style=for-the-badge&logo=android&logoColor=white)
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-00ACC1?style=for-the-badge&logo=android&logoColor=white)
 
 ### Environment
 ![Android Studio](https://img.shields.io/badge/Android%20Studio%20Meerkat-2024.3.1-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
