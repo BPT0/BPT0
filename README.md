@@ -47,3 +47,5 @@
 - **성과**: iOS(2025.10.19)·Android(2025.10.20) 스토어 배포, 앱 사용자 요양보호사 시험 합격률 60% 이상
 - **배포**: [Google Play](https://play.google.com/store/apps/details?id=com.hamo.hamo.hamo) · [App Store](https://apps.apple.com/us/app/hamo/id6753189188)
 - **서비스 소개**: [hamoedu.com](https://www.hamoedu.com/)
+<img width="1608" height="523" alt="image" src="https://github.com/user-attachments/assets/e0842036-d543-4e14-a0d2-dae6497c0ef5" />
+
